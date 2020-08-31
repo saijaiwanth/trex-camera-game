@@ -1,1 +1,1 @@
-# trex-camera-game
+# JAI-S-TREX-GAME
